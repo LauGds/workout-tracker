@@ -1,7 +1,7 @@
 import requests
 from _datetime import datetime
 
-APP_ID = "<<APP-ID>>"
+APP_ID = "<<APP_ID>>"
 API_KEY = "<<API-KEY>>"
 GENDER = "female"
 WEIGHT = 1
